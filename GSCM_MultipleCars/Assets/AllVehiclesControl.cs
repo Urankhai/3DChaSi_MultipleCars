@@ -34,6 +34,7 @@ public class AllVehiclesControl : MonoBehaviour
 
     void Start()
     {
+        //Debug.Log()
         // defining cars and their positions
         for (int i = 0; i < carsArray.Length; i++)
         { 
